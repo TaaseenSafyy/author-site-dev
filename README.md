@@ -1,3 +1,6 @@
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="robots" content="noindex, nofollow" />
 # author-site-dev
 
 You are building the sandbox/dev version of a simple author portfolio website. This repo is temporary and will later be migrated into the official production repo
