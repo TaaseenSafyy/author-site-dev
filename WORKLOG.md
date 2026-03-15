@@ -21,3 +21,9 @@
 - **Next step**: Build or flesh out Writing page (`writing.html`); replace placeholders with real copy/links when ready.
 - **Blockers**: None.
 
+## 2026-03-15
+
+- **What changed**: Built out Writing page (`writing.html`): added shared header and footer; 9 books in a 3-per-row grid (3 rows). Each book card: cover image (`assets/img/Book-1.png` through `Book-9.jpg`), title, and description. First three books use reference copy (Publishing 101, What Editors Do, Author in Progress); books 4–9 use placeholder titles and descriptions. CSS: `.books-grid` (3 columns, then 2 at 640px, 1 at 480px), `.book-card`, `.book-card__cover` (aspect-ratio 2/3), `.book-card__title`, `.book-card__description`. “Learn more” buttons were added then removed per request.
+- **Current preview URL**: `http://localhost:8000` — Writing at `http://localhost:8000/writing.html`.
+- **Next step**: Replace book 4–9 placeholder copy if needed; add real links or CTAs when ready.
+- **Blockers**: None.
